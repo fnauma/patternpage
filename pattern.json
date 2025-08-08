@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Crochet Rose Bouquet",
+    "timeRequired": "1-2 hours per rose",
+    "level": "Intermediate",
+    "description": "Create a stunning DIY rose bouquet with small and medium crochet roses, matching buds, sepals, and leaves. \\nPerfect for gifts or decorations. This pattern is based on a detailed YouTube tutorial, so make sure to follow \\nalong visually for the best results!\\n\\nTip: Mix and match rose sizes and yarn colours for a more dynamic bouquet.",
+    "materials": [
+      "Cotton or acrylic yarn (red, pink, green, etc.)",
+      "3.0 mm - 4.0 mm crochet hook",
+      "Tapestry needle",
+      "Scissors",
+      "Thin floral wire",
+      "Hot glue gun",
+      "Floral tape or yarn for wrapping stem"
+    ],
+    "patternSteps": [
+      "1. Small Rose:\\nFoundation chain: Ch 23\\nRow 1: Skip 3 ch, *3 dc in 4th ch, 1 sc in next ch*, repeat to end\\nRow 2: Ch 2, turn, *1 dc, 2 dc in same st, 1 dc, ss, ch 1*, repeat\\nFasten off",
+      "2. Small Bud/Sepal:\\nMagic ring, ch 1\\nRnd 1: 5 sc, ss, ch 1\\nRnd 2: 2 sc in each st (10), ss, ch 1\\nRnd 3: 1 sc in each st (10), ss\\nRnd 4: *ch 5, skip 1, ss in next 2, 1 sc, 1 hdc, skip 1, ss*, repeat 5 times\\nFasten off",
+      "3. Medium Rose:\\nFoundation chain: Ch 47\\nRow 1: Skip 1, 1 hdc in each ch (46)\\nRow 2: Ch 5, turn, 1 dc in first st, *skip 2, (1 dc + ch 3 + 1 dc) in 3rd st*, repeat\\nRow 3: Ch 3, turn, *7 dc in ch-3 space, 1 sc in triangle*, end with 7 dc, 1 sc, ss\\nFasten off",
+      "4. Medium Bud/Sepal:\\nMagic ring, ch 2\\nRnd 1: 6 dc in ring, ss\\nRnd 2: *Ch 7, skip 1, 1 ss, 1 sc, 1 hdc, 1 dc in next 2 sts, 1 tc, ss in next st*, repeat 5 times\\nFasten off",
+      "5. Leaves:\\nCh 10, insert thin wire through 10th ch, fold in half\\nFirst side: Skip 1 ch, 1 sc, 1 hdc, 1 dc in next 5, 1 hdc, 3 sc in same stitch (turn)\\nSecond side: 1 hdc, 1 dc in next 5, 1 hdc, 1 sc, ss\\nFasten off",
+      "6. Assembling the Roses:\\nStep 1: Glue one side of rose to stem, wrap it around, gluing bottom edges\\nStep 2: Slide leaf/sepal onto stem, glue middle of leaves to bottom\\nStep 3: Wrap stem with yarn/floral tape, add leaves while wrapping down\\nOptional: Mix sizes and colors to create a full bouquet"
+    ],
+    "image": "rosebouqet.png"
+  },
+  {
+    "name": "Beginner's Basic Sweater",
+    "timeRequired": "Varies (beginner-friendly)",
+    "level": "Beginner",
+    "description": "This is a straight-forward and basic knitting pattern for a sweater made out of four panels (two sleeves, and identical front and back panels). Written from a beginner to beginners, with simple step-by-step guidance. Measurements and stitch counts are based on my first sweater, so feel free to adjust as needed.",
+    "materials": [
+      "Yarn of your choice (sweater weight recommended)",
+      "Knitting needles appropriate for your yarn size",
+      "Tapestry needle for sewing",
+      "Scissors"
+    ],
+    "patternSteps": [
+      "Measurements:\\nFront & Back Panels - Length: 20 inches, Width: 21 inches\\nSleeves - Length: 18.5 inches, Width: 12 inches (6 inches when folded)",
+      "Front and Back Panels:\\n1. Make a slip knot and cast on until you have the desired width (64 stitches in this example).\\n2. Knit rows of the stockinette stitch until the panel reaches the desired length (90 rows here, alternating 1 row knit and 1 row purl).\\n3. Cast/bind off all stitches, leaving a long tail for sewing the shoulder seams.",
+      "Sleeves:\\n1. Make a slip knot and cast on until you have the desired width (42 stitches in this example).\\n2. Knit rows of the stockinette stitch until the panel reaches the desired length (80 rows here, alternating 1 row knit and 1 row purl).\\n3. Cast/bind off all stitches, leaving a tail as long as your sleeve for sewing.\\n4. Sew the sides of each sleeve together.",
+      "Joining Panels:\\n1. Start sewing the bottom edges of the front and back panels together until you reach the sleeve opening.\\n2. Attach the sleeves to the armholes, sewing all the way around.\\n3. Repeat for the other sleeve.\\n4. Sew the top of the front and back panels together at the shoulders (about 4.5 inches in on both sides)."
+    ],
+    "image": "beginners_basic_sweater.png"
+  }
+]
