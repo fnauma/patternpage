@@ -1,6 +1,6 @@
 [
   {
-    "name": "Crochet Rose Bouquet",
+    "name": "Rose Bouquet",
     "timeRequired": "1-2 hours per rose",
     "level": "Intermediate",
     "description": "Create a stunning DIY rose bouquet with small and medium crochet roses, matching buds, sepals, and leaves. \\nPerfect for gifts or decorations. This pattern is based on a detailed YouTube tutorial, so make sure to follow \\nalong visually for the best results!\\n\\nTip: Mix and match rose sizes and yarn colours for a more dynamic bouquet.",
@@ -41,5 +41,31 @@
       "Joining Panels:\\n1. Start sewing the bottom edges of the front and back panels together until you reach the sleeve opening.\\n2. Attach the sleeves to the armholes, sewing all the way around.\\n3. Repeat for the other sleeve.\\n4. Sew the top of the front and back panels together at the shoulders (about 4.5 inches in on both sides)."
     ],
     "image": "https://fnauma.github.io/patternpage/images/beginners_basic_sweater.png"
-  }
+  },
+  {
+  "name": "Teddy Bear",
+  "timeRequired": "4-6 hours",
+  "level": "Beginner",
+  "description": "Crochet a soft and cozy teddy bear with an optional hat, bow, and cherries! 🧸 This is a no-magic-ring pattern (uses a fake magic ring alternative). Follow the free video tutorial alongside this written pattern for the best results. Perfect as a handmade gift or a cuddly decoration. Share your finished bear with #crochetwithmahum!",
+  "materials": [
+    "Worsted weight yarn (brown/cream for body, color of choice for hat & bow, red for cherries, green for stem)",
+    "3.0 mm - 4.0 mm crochet hook",
+    "Polyester stuffing",
+    "Tapestry needle",
+    "Scissors",
+    "Stitch markers",
+    "Optional: safety eyes or black yarn for embroidery"
+  ],
+  "patternSteps": [
+    "1. Head:\\nRnd 1: 8 sc\\nRnd 2: 2 sc in each st (16)\\nRnd 3: *1 sc, inc* (24)\\nRnd 4: *2 sc, inc* (32)\\nRnd 5: *3 sc, inc* (40)\\nRnd 6-13: sc around (40)\\nRnd 14: *3 sc, dec* (32)\\nRnd 15: *2 sc, dec* (24)\\nRnd 16: *1 sc, dec* (16)\\nRnd 17: dec around (8). Fasten off and stuff.",
+    "Face Patch:\\nRnd 1: 8 sc\\nRnd 2: 2 sc in each st (16). Fasten off, embroider the nose, and sew onto the head.",
+    "2. Hat:\\nRnd 1: 8 sc\\nRnd 2: 2 sc in each st (16)\\nRnd 3: *1 sc, inc* (24)\\nRnd 4: *2 sc, inc* (32)\\nRnd 5: *3 sc, inc* (40)\\nRnd 6: *4 sc, inc* (48)\\nRnd 7-13: sc around (48)\\nRnd 14: *3 sc, dec* (tighter fit)\\nRnd 15: sc around. Fasten off.",
+    "3. Body:\\nRnd 1: 8 sc\\nRnd 2: 2 sc in each st (16)\\nRnd 3: *1 sc, inc* (24)\\nRnd 4: *2 sc, inc* (32)\\nRnd 5: *3 sc, inc* (40)\\nRnd 6-13: sc around (40)\\nRnd 14: *3 sc, dec* (32)\\nRnd 15: sc around (32)\\nRnd 16: *2 sc, dec* (24). Stuff firmly.",
+    "4. Arms (make 2):\\nRnd 1: 6 sc\\nRnd 2: 2 sc in each st (12)\\nRnd 3-8: sc around (12)\\nRnd 9: dec around (6)\\nRnd 10: sc around (6). Fasten off, lightly stuff.",
+    "5. Legs (make 2):\\nRnd 1: 8 sc\\nRnd 2: 2 sc in each st (16)\\nRnd 3-5: sc around (16). Fasten off and stuff.",
+    "6. Ears (make 2):\\nRnd 1: 8 sc\\nRnd 2: 2 sc in each st (16)\\nRnd 3: sc around (16). Flatten and sew onto head.",
+    "7. Cherries & Bow:\\nCherry (make 2): Rnd 1: 6 sc\\nRnd 2: *1 sc, inc* (9)\\nRnd 3: *1 sc, dec* (6). Fasten off and close.\\nStem: Ch 70+, fasten off. Sew cherries to ends and tie around bear as a bow."
+  ],
+  "image": "https://fnauma.github.io/patternpage/images/cute_cozy_teddy_bear.png"
+}
 ]
